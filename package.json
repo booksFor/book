@@ -1,0 +1,25 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "A cli conversion tool for markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "keywords": [],
+  "author": "Felipe Guerrero",
+  "license": "ISC",
+  "dependencies": {
+    "fast-glob": "^3.2.2",
+    "js-yaml": "^3.13.1",
+    "minimist": "^1.2.5",
+    "print-message": "^3.0.1",
+    "readline-sync": "^1.4.10",
+    "sprintf": "^0.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guerretmx/books.git"
+  }
+}
