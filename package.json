@@ -13,7 +13,7 @@
   "dependencies": {
     "fast-glob": "^3.2.2",
     "js-yaml": "^3.13.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "print-message": "^3.0.1",
     "readline-sync": "^1.4.10",
     "sprintf": "^0.1.5"
